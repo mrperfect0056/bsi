@@ -1,6 +1,18 @@
-# bsi
-https://github.com/mrperfect0056/bsi.git
-ls
-cd bsi
-ls
-python2 bsi.py
+# For Android
+# Installation
+
+pkg update
+
+pkg upgrade
+
+pkg install git
+
+rm -rf bxi
+
+git clone https://github.com/binyamin-binni/bxi
+
+cd bxi
+
+chmod 777 bxi
+
+./bxi
